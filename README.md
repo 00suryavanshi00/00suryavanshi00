@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Sanskar Suryavanshi!
 
-### 🚀 Software Engineer | MERN Stack Developer | Passionate Learner
+### 🚀 Software Engineer | MERN Stack Developer | AWS | DEVOPS
 
 **About Me**  
 I'm a 2023 Computer Science graduate with a knack for exploring diverse tech stacks through each new project. I thrive in fast-paced environments with short deadlines and love working under pressure. Over time, I've gained experience across various technologies, from Flask and Kubernetes to ReactJS and Flutter. When I'm not coding, you can find me playing table tennis!
@@ -76,12 +76,11 @@ _Bachelor of Engineering, Computer Science_
 ---
 
 ### ⚡ Fun Fact  
-I’m also a **table-tennis** player when I'm not building cool projects!
+I’m also a **table-tennis** player when I'm not building projects!
 
 ---
 
 ### 🔗 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/sanskar-suryavanshi)  
-- [GitHub](https://github.com/00suryavanshi00)  
+- [LinkedIn](https://www.linkedin.com/in/sanskar-suryavanshi-415366200/))  
 - [Email](mailto:ssuryavanshi0001@gmail.com)
 
