@@ -74,6 +74,7 @@ _Bachelor of Engineering, Computer Science_
 
 - Exploring advanced concepts in backend development, including microservices with Flask.
 - Delving deeper into cloud platforms and orchestration tools like Kubernetes and GCP.
+- Using more design patterned code in my codebase, working on Praxis while implementing this :))
 
 ---
 
