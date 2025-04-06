@@ -8,8 +8,7 @@
 I'm a 2023 Computer Science graduate with a knack for exploring diverse tech stacks through each new project. I thrive in fast-paced environments with short deadlines and love working under pressure. Over time, I've gained experience across various technologies, from Flask and Kubernetes to ReactJS and Flutter. When I'm not coding, you can find me playing table tennis!
 
 ---
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="26764ed2-5535-40d0-8e92-0022e37b7d5b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+https://www.credly.com/badges/26764ed2-5535-40d0-8e92-0022e37b7d5b/public_url
 
 ### 💼 Experience
 
