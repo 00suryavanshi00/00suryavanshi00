@@ -9,6 +9,8 @@ I'm a 2023 Computer Science graduate with a knack for exploring diverse tech sta
 
 ---
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="26764ed2-5535-40d0-8e92-0022e37b7d5b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### 💼 Experience
 
 **Nabi Health Pvt Ltd** (Sep 2023 - Present)  
