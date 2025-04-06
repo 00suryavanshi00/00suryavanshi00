@@ -3,7 +3,7 @@
 ### 🚀 Software Engineer | MERN Stack Developer | AWS | DEVOPS
 
 [![@00suryavanshi00's Holopin board](https://holopin.me/00suryavanshi00)](https://holopin.io/@00suryavanshi00)
-![GCP Badge](https://www.credly.com/badges/26764ed2-5535-40d0-8e92-0022e37b7d5b/public_url)
+![GCP Badge]([https://www.credly.com/badges/26764ed2-5535-40d0-8e92-0022e37b7d5b/public_url](https://www.credly.com/badges/26764ed2-5535-40d0-8e92-0022e37b7d5b/public_url))
 
 **About Me**  
 I'm a 2023 Computer Science graduate with a knack for exploring diverse tech stacks through each new project. I thrive in fast-paced environments with short deadlines and love working under pressure. Over time, I've gained experience across various technologies, from Flask and Kubernetes to ReactJS and Flutter. When I'm not coding, you can find me playing table tennis!
